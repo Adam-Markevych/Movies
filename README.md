@@ -1,2 +1,2 @@
 # Movies
-Movies info
+Info about Movies
